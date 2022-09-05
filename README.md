@@ -1,13 +1,9 @@
-<h1>Link sản phẩm cuối</h1>
-<p></p>
 
-<ol>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Javascript
-        <ul> 
-        <li>Array methods (map, find, splice, ...)</li>
-        <li>LocalStorage (setItem, getItem, JSON.stringify, JSON.parse, ...) </li>
-        </ul>
-    </li>
-</ol>
+# Xây dựng website quản lí sinh viên
+# Áp dụng những kiến thức đã học :
+1. HTML
+2. CSS
+3. Javascript
+## Kết quả: 
+ 1. Link sản phẩm : https://thanhhoan23.github.io/case/
+ 2. Link Git : https://github.com/thanhhoan23/case
