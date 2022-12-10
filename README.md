@@ -1,5 +1,5 @@
 
-# Xây dựng website quản lí sinh viên
+# Xây dựng website quản lí giày
 # Áp dụng những kiến thức đã học :
 1. HTML
 2. CSS
